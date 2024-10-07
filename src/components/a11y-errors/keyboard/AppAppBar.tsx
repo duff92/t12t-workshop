@@ -54,13 +54,13 @@ export default function AppAppBar() {
               <Button variant="text" color="info" size="small" tabIndex={2}>
                 Features
               </Button>
-              <Button variant="text" color="info" size="small" tabIndex={5}>
+              <Button variant="text" color="info" size="small" tabIndex={3}>
                 Testimonials
               </Button>
               <Button variant="text" color="info" size="small" tabIndex={4}>
                 Highlights
               </Button>
-              <Button variant="text" color="info" size="small" tabIndex={10}>
+              <Button variant="text" color="info" size="small" tabIndex={5}>
                 Pricing
               </Button>
               <Button
